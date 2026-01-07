@@ -1,0 +1,5 @@
+{
+  "name": "qwen with backend from gemini",
+  "description": "Professional product photography editing suite using RunPod and ComfyUI.",
+  "requestFramePermissions": []
+}
